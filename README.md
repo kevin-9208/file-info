@@ -10,5 +10,6 @@ email-list：
 - kevin1992@tuta.io
 - silence3@tuta.io
 
-vercel site list
-- https://erp-management-system-pink.vercel.app
+vercel site link list
+- https://erp-management-system-pink.vercel.app/
+- https://inventory-management-eight-green.vercel.app/
