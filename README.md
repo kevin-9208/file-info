@@ -9,3 +9,6 @@ email-list：
 - stephen1992@tutamail.com
 - kevin1992@tuta.io
 - silence3@tuta.io
+
+vercel site list
+- https://erp-management-system-pink.vercel.app
